@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhanuchandra8090
 - 👀 I’m interested in  computer networks 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on Network engineer 
 
   
